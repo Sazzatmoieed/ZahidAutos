@@ -1,0 +1,18 @@
+body{
+    background: #333;
+    color:#fff;
+}
+nav{
+    background: #333;
+    opacity: 0.7;
+}
+#Home-body{
+    padding-top: 20px;
+}
+
+#Home-body img{
+    height:300px;
+}
+#Products-body img{
+    height:300px;
+}
